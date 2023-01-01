@@ -1,3 +1,5 @@
+//If the number is either a multiple of 3 or 5 or even both, the program will print out Fizz, Buzz, and Fizzbuzz respectively.
+
 #include <stdio.h> 
 
 int main () { 
