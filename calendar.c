@@ -81,4 +81,5 @@ int main() {
   add_days_to_date(&mm, &dd, &yy, days_left_to_add);
   printf("%d/%d/%d\n", mm, dd, yy);
 
+  return 0;
 }
