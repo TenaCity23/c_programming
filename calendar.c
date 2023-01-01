@@ -1,5 +1,5 @@
 /* This is a calendar calculator. The first purpose of this code is to calculate whether a year entered is a leap year or not. 
-The other purpose of this code is to receive a specific date and caluclate the amount of days added to it and print out a new, correct date. */
+The second purpose of this code is to receive a specific date and caluclate the amount of days added to it and print out a new, correct date. */
 
 #include <stdio.h>
 #include <stdbool.h>
