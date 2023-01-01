@@ -51,9 +51,9 @@ int main () {
 
   //If counters match, it is an Anagram
   if (flag == 1) { 
-    printf("Not Anagram!");
+    printf("Not Anagram!\n");
   } else { 
-    printf("Anagram!");
+    printf("Anagram!\n");
   }
 
   return 0;
