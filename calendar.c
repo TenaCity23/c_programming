@@ -47,7 +47,6 @@ void add_days_to_date(int* mm, int* dd, int* yy, int days_left_to_add) {
 
 
 int main() {
-  
   bool check;
   int year;
 
