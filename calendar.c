@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-
 bool is_leap_year(int year) {
   if(year % 4 != 0) {
     return false;
@@ -47,7 +46,6 @@ void add_days_to_date(int* mm, int* dd, int* yy, int days_left_to_add) {
 }
 
 
-
 int main() {
   
   bool check;
@@ -64,7 +62,6 @@ int main() {
     printf("Not Leap Year\n");
   }
 
-  
   
   int mm, dd, yy, days_left_to_add; 
 
