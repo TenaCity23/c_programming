@@ -19,7 +19,6 @@ struct RaceCar {
     int totalLapTime; 
 };
 
-
 // Print functions section
 void printIntro() {
 	printf("Welcome to the digital race!\n");
@@ -41,7 +40,6 @@ void printFirstPlaceAfterLap(struct Race race) {
 void printCongratulation(struct Race race) {
   	printf("\nCongrats to %s in the %s race car!! They've won!\n", race.firstPlaceDriverName, race.firstPlaceRaceCarColor);
 }
-
 
 // Logic functions section
 int calculateTimeToCompleteLap() { 
@@ -88,7 +86,6 @@ void startRace(struct RaceCar* raceCar1, struct RaceCar* raceCar2) {
 
 	printCongratulation(race);
 }
-
 
 int main() {
 
