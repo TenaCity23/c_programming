@@ -1,3 +1,5 @@
+//This is a racing game that prints out the victor randomly based on the least amount of time they complete the final lap.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
