@@ -1,5 +1,5 @@
 //This program takes in 3 inputs, being a character, a word, and a sentence. Then, it prints out the entered message to the user. 
-//With the sentence, I had to use a unique format specifier to read in the sentence and print out the input. (HackerRank)
+//With the sentence, I had to use a unique format specifier to read in the sentence and print out the input.
 
 #include <stdio.h>
 #include <string.h>
