@@ -1,4 +1,4 @@
-//Program initializes a value to n, which is then broken apart to find the sum of all the integers in the value.
+//Program initializes a value to n, which is then broken apart to find the sum of all the integers in the value. (HackerRank)
 
 #include <stdio.h>
 #include <math.h>
