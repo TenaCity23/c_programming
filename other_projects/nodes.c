@@ -17,6 +17,7 @@ int main()
     struct Node* third = NULL;
     
     struct Node* newNode = NULL;
+    struct Node* newStart = NULL;
 
     head = (struct Node*)malloc(sizeof(struct Node));
     second = (struct Node*)malloc(sizeof(struct Node));
@@ -34,8 +35,8 @@ int main()
     newNode->data = 4;
     newNode->next = head;
     
-    head = newNode; 
-    printdata(head); 
+    newStart = newNode; 
+    printdata(newStart); 
 
     return 0;
 }
