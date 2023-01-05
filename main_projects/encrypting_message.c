@@ -1,5 +1,5 @@
 // This program asks a user to enter a sentence to encrypt. 
-// How it encrypts the message is shifting the letters by a user-defined amount. 
+// How it encrypts the message is by shifting the letters by a user-defined amount. 
 
 #include <stdio.h> 
 #define SIZE 80
