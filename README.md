@@ -22,3 +22,5 @@ Some other miscellaneous projects I've completed could be found in the [other_pr
 * [HackerRank Exercises](https://github.com/TenaCity23/c_programming/tree/main/other_projects/HackerRank)
 
 * [Input/Output File](https://github.com/TenaCity23/c_programming/tree/main/other_projects/iofile)
+
+* [Linked Node Practice](https://github.com/TenaCity23/c_programming/blob/main/other_projects/nodes.c)
