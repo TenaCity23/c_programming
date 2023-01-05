@@ -7,7 +7,7 @@ In the [main_projects](https://github.com/TenaCity23/c_programming/tree/main/mai
 
 * [Calendar Project](https://github.com/TenaCity23/c_programming/blob/main/main_projects/calendar.c): This is a calendar calculator I made to:
   - calculate whether a year entered is a leap year or not.
-  - receive a specific date, caluclate the amount of days added to it, and print out a new, correct date.
+  - receive a specific date, caluclate the amount of days added to it, and print out a new date.
 
 * [Encrypting Message](https://github.com/TenaCity23/c_programming/blob/main/main_projects/encrypting_message.c): The user enters a sentence they want to encrypt and a shift value for the encryption. The program will display the final encrypted message to the user.
 
