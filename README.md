@@ -19,5 +19,6 @@ In the [main_projects](https://github.com/TenaCity23/c_programming/tree/main/mai
 ### Other Projects
 Some other miscellaneous projects I've completed could be found in the [other_projects](https://github.com/TenaCity23/c_programming/tree/main/other_projects) folder. These are often project exercises I completed for fun and practice! Here are some of my highlighted practice projects:
 
-* [Input/Output File](https://github.com/TenaCity23/c_programming/tree/main/other_projects/iofile)
 * [HackerRank Exercises](https://github.com/TenaCity23/c_programming/tree/main/other_projects/HackerRank)
+
+* [Input/Output File](https://github.com/TenaCity23/c_programming/tree/main/other_projects/iofile)
