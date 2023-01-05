@@ -18,3 +18,5 @@ In the [main_projects](https://github.com/TenaCity23/c_programming/tree/main/mai
 * [Digit Counting](https://github.com/TenaCity23/c_programming/blob/main/main_projects/digit_occurances.c): The user enters a line of numbers and the program will display the numbers that were repeated.
 
 
+### Other Projects
+Some other miscellaneous projects I've completed could be found in the [other_projects](https://github.com/TenaCity23/c_programming/tree/main/other_projects) folder. These are often project exercises I completed for fun!
