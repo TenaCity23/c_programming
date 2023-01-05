@@ -14,7 +14,7 @@ int main(void)
     fclose(fp);
 
 
-    fp = fopen("test2.txt", "r+"); //writing mode allows user to read from file 
+    fp = fopen("file.txt", "r+"); //writing mode allows user to read from file 
     
     char str_ex[20];
     while(fgets(str_ex, sizeof str_ex, fp) != NULL) {
