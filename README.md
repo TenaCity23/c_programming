@@ -9,7 +9,7 @@ In the [main_projects](https://github.com/TenaCity23/c_programming/tree/main/mai
 * [Encrypting Message](https://github.com/TenaCity23/c_programming/blob/main/main_projects/encrypting_message.c)
 * [Racing Winner](https://github.com/TenaCity23/c_programming/blob/main/main_projects/race.c)
 * [Anagrams](https://github.com/TenaCity23/c_programming/blob/main/main_projects/anagram.c)
-* [Digit Counting](https://github.com/TenaCity23/c_programming/blob/main/main_projects/digit_occurances.c)
+* [Digit Counter](https://github.com/TenaCity23/c_programming/blob/main/main_projects/digit_occurances.c)
 
 
 ### Other Projects
